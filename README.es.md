@@ -1,17 +1,26 @@
-# SEO Audit
+# SEO Auditor
 
 [![EN](https://img.shields.io/badge/EN-English-blue)](README.md)
 
-Skill de SEO Audit para OpenClaw.
-
 ## Qué Resuelve
-Analyzes websites for technical SEO issues.
 
-## Uso
-/seo-audit
+Analiza sitios web para problemas técnicos de SEO, meta tags, Core Web Vitals y rankings de búsqueda.
 
-## Ejemplo
-Analizar código para problemas de seo.
+## Cuándo Se Activa
+
+- Auditoría SEO, análisis de sitio web, meta tags
+- Core Web Vitals, ranking de búsqueda
+- Sitemap, análisis de backlinks
+
+## Requisitos
+
+- Acceso al sitio web
+- Google Search Console (opcional)
+
+## Ejemplos
+
+Auditar SEO técnico, verificar meta tags, analizar velocidad de página
 
 ## Licencia
+
 MIT
